@@ -10,4 +10,13 @@ body{
 
 /*code for desktop*/
 @media only screen and (min-width: 768px) {
+    body{
+        width: 960px;
+    }
+    .formelement{
+        width: 20%;
+    }
+    #submitform{
+        width: 100%;
+    }
 }
