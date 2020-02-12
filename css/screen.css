@@ -1,4 +1,12 @@
 /*code for mobile*/
+body{
+    width: 100%;
+}
+.formelement{
+    width: 100%;
+}
+
+
 
 /*code for desktop*/
 @media only screen and (min-width: 768px) {
