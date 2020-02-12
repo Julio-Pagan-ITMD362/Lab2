@@ -3,9 +3,9 @@ body{
     width: 100%;
 }
 .formelement{
-    width: 100%;
-    margin: auto;
+    width: 85%;
     margin-top: 5em;
+    align-content: center;
 }
 
 #submitform{
