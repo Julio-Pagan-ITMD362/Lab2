@@ -4,8 +4,12 @@ body{
 }
 .formelement{
     width: 100%;
+    margin: auto;
 }
 
+#submitform{
+    width: 100%;
+}
 
 
 /*code for desktop*/
